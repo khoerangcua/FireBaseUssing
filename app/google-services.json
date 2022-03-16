@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915374146346",
+    "project_id": "usingdatabase-290fa",
+    "storage_bucket": "usingdatabase-290fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915374146346:android:1c8d4c76b8c979422b1453",
+        "android_client_info": {
+          "package_name": "dangbao.st.ueh.edu.usingdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915374146346-1k67sjg7a0hb4abt237aob3o3eqv8kaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxeW7BoXuep9J9xjZQU-ctOR_O9Gfee9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915374146346-1k67sjg7a0hb4abt237aob3o3eqv8kaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
